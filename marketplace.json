@@ -1,0 +1,12 @@
+{
+    "name": "my first test Plugins",
+    "description": "内部插件市场",
+    "plugins": [
+      {
+        "name": "my-test-plugin",
+        "description": "团队标准开发工具包",
+        "repository": "git@github.com:shanli/my-test-plugin.git",
+        "version": "1.0.0"
+      }
+    ]
+  }

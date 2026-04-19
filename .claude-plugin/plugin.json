@@ -1,0 +1,8 @@
+{
+    "name": "team-toolkit",
+    "description": "团队标准开发工具包：代码审查、测试、部署、安全扫描一体化",
+    "version": "1.0.0",
+    "author": {
+      "name": "Your Name"
+    }
+  }
